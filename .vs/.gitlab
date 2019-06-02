@@ -1,0 +1,13 @@
+{
+  "User": {
+    "Id": 3140305,
+    "Username": "martino.papa",
+    "Name": "Martino Papa",
+    "Email": "martino.papa@marconirovereto.it",
+    "AvatarUrl": "https://secure.gravatar.com/avatar/e0654e81d8c50dcdb2d746d560133858?s=80&d=identicon",
+    "PrivateToken": "d5427beccaa4903b93e62ecd6f32cfe7c44c9ba4ba09b870308bc8d1a8ad33bd",
+    "Host": "https://gitlab.com",
+    "TwoFactorEnabled": false,
+    "ApiVersion": 3
+  }
+}
